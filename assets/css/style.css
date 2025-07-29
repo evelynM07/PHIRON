@@ -42,7 +42,6 @@ nav ul li a.active::after {
   height: 100vh;
   display: flex;
   align-items: center;
-  margin-left: 10vh;
 }
 
 .left-section {
